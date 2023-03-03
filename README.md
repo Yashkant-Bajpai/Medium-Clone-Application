@@ -1,3 +1,3 @@
-# Medium-Clone-Application
+to run use  : npm run dev
 
-These Files are Committed by Yashkant Bajpai for Web Development(Super 150) Mid Term Examination(Sem->6).
+index page route: /comments
